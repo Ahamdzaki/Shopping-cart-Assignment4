@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+main {
+    margin: auto;
+    min-height: 75vh;
+    background-color: rgba(0, 0, 0, 0.311);
+}
